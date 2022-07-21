@@ -1,0 +1,19 @@
+Dear A.Cường
+Em đã hoàng thành task Training Software Requirement Specification mà anh giao
+1: Em đã hoàn thành tìm hiểu framework laravelvà so sánh laravel với cakephp.
+2: Làm project sử dụng laravel có chức năng:
+- login
+- logout
+- reset password
+- xem danh sách các sản phẩm hiện có
+- thêm sản phẩm mới
+- cập nhật sản phẩm
+- xóa sản phẩm
+- Viết Api lấy danh sách sản phẩm
+- Viết Api thêm một sản phẩm mới 
+- Viết Api Cập nhật sản phẩm
+- Viết Api xóa sản phẩm
+
+Anh review giúp em nhé.
+Thanks Anh
+Le Sy Hung
